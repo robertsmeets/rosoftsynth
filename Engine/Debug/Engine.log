@@ -1,0 +1,11 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  systemclass.cpp
+  soundclass.cpp
+  main.cpp
+  inputclass.cpp
+  graphicsclass.cpp
+  d3dclass.cpp
+  cameraclass.cpp
+  Generating Code...
+cameraclass.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  Engine.vcxproj -> D:\github\rosoftsynth\Debug\Engine.exe
